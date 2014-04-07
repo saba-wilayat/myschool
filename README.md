@@ -1,4 +1,0 @@
-myschool
-========
-
-project
